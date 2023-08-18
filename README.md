@@ -20,5 +20,5 @@ Intern Crowd is an online coding platform that offers specialized programming co
 - A weekly Bumper Task will be provided to identify the best candidate within the batch.
 - The outstanding candidate will be recognized and rewarded with goodies and incentives.
 
-Happy Codng!
+Happy Coding!
 Yash
